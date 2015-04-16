@@ -173,7 +173,7 @@ Takes a string with the path to the file to be opened as an argument and returns
 * returns the merged data 
 
 
-## get_activity_vector <- function(){
+## get_activity_vector 
 
 * Reads in activity_names data     
 * Returns activity labels vector *activities*
